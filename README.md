@@ -19,3 +19,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Shuvo Habib](https://medium.com/@shuvohabib)
 - [Rakib Al Hasan](https://medium.com/@rakib.rumi09)
 - [Meher Ullah Khan Raj](https://medium.com/@rajkhan.co)
+- [Osman Gani Khan Masum](https://medium.com/@masum26)
