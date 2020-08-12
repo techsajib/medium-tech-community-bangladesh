@@ -10,3 +10,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 ### Writers
 - [Ahmed Shamim Hassan](https://medium.com/@me_shaon)
 - [Mostafa Kamal @code4mk](https://medium.com/@code4mk)
+- [Abir Bin Ayub Khan](https://medium.com/@abir.sakif)
