@@ -16,3 +16,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Nahidul Hasan](https://medium.com/@NahidulHasan)
 - [Mostafa Kamal @code4mk](https://medium.com/@code4mk)
 - [Abir Bin Ayub Khan](https://medium.com/@abir.sakif)
+- [Osman Gani Khan Masum](https://medium.com/@masum26)
